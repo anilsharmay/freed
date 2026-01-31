@@ -1,6 +1,24 @@
 # Freed — Men's Mental Health (Anonymous Share & Support)
 
-**Tagline:** Heal from the things you don't talk about.
+Heal from the things you don't talk about.
+
+---
+
+## About this project
+
+This project was an experiment in AI-assisted product development: an **idea-to-prod** pipeline from concept to deployed app.
+
+**Pipeline:** Idea → MVP scoping → MVP PRD → Spec → Build → Deploy
+
+**Tools and references used:**
+
+- **[Awesome PM Skills](https://github.com/menkesu/awesome-pm-skills)** — 28 AI-powered PM skills from Lenny's Podcast transcripts (scoping, build decisions, ship decisions).
+- **[Vercel React Best Practices](https://github.com/vercel-labs/agent-skills/blob/main/skills/react-best-practices/SKILL.md)** — React/Next.js performance and patterns used when writing components and data fetching.
+- **Cursor** — IDE with AI assistance.
+- **OpenCode** — TUI + custom `/build-app` command to generate the app from specs.
+- **Gemini 3 Flash** — Model used for generation (via Google provider).
+
+---
 
 This repo is split into:
 
