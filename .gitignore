@@ -1,0 +1,11 @@
+# Dependencies and build
+node_modules/
+dist/
+
+# Env (secrets)
+.env
+app/.env
+
+# Editor and OS
+.DS_Store
+*.log

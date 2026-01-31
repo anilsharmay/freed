@@ -1,0 +1,5 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "model": "google/gemini-3-flash-preview",
+  "instructions": ["docs/AGENTS.md", "docs/TECHNICAL-SPEC.md", "docs/REACT-BEST-PRACTICES.md", "docs/BRAND.md"]
+}
