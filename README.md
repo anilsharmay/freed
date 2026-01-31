@@ -44,7 +44,7 @@ This repo is split into:
 | **docs/REACT-BEST-PRACTICES.md** | React practices for this app. |
 | **docs/SUPABASE-SETUP.md** | How to create the Supabase database. |
 | **docs/TESTING.md** | How to run and test the app locally. |
-| **docs/DEPLOY.md** | How to deploy to Vercel or Netlify. |
+| **docs/DEPLOY.md** | How to deploy to Netlify from GitHub. |
 
 ---
 
@@ -74,7 +74,7 @@ Create **`app/.env`** with `VITE_SUPABASE_URL` and `VITE_SUPABASE_ANON_KEY` (see
 
 ## Deploy
 
-[docs/DEPLOY.md](docs/DEPLOY.md) — Deploy the **`app/`** folder to Vercel or Netlify (set root/base directory to `app`, add `VITE_SUPABASE_URL` and `VITE_SUPABASE_ANON_KEY`).
+[docs/DEPLOY.md](docs/DEPLOY.md) — Deploy the **`app/`** folder to Netlify from GitHub (base directory `app`, add `VITE_SUPABASE_URL` and `VITE_SUPABASE_ANON_KEY`).
 
 ---
 
